@@ -2,7 +2,7 @@
 
 <br>
 
-Simple sales data analisys with Python, pandas and matplotlib. <a href="https://github.com/KeithGalli/Pandas-Data-Science-Tasks">Data and some solutions</a>
+Simple sales data analisys with Python, pandas and matplotlib. <a href="https://github.com/KeithGalli/Pandas-Data-Science-Tasks">Data and some solutions.</a>
 <br>
 <br>
 
